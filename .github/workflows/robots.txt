@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/ggzz1ggzz1ggzz1/forum-jingxuan//sitemap.xml
